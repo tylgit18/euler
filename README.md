@@ -1,2 +1,2 @@
 # euler
-Project Euler as Python Instruction
+Using Project Euler Questions to learn/improve my knowledge of Python
